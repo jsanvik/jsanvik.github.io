@@ -67,8 +67,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
+  hide                   : true #, false (default)
+search                   : true #, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -115,9 +115,9 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/placeholder.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Lethbridge, AB"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
