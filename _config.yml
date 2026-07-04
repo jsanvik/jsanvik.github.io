@@ -116,17 +116,17 @@ analytics:
 author:
   name             : "John S. Anvik"
   avatar           : "/assets/images/placeholder.png"
-  bio              : "I am an **amazing** person."
+  bio              : "BSc. Computer Science, Class of 2027"
   location         : "Lethbridge, AB"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "j.anvik@uleth.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://jsanvik.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       # url: "https://twitter.com/"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jsanvik"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -152,7 +152,8 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jsanvik"
+
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
