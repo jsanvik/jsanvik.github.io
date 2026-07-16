@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "John S. Anvik"
-  avatar           : "/assets/images/pfp.png"
+  avatar           : "/assets/images/pfp.jpeg"
   bio              : "BSc. Computer Science, Class of 2027"
   location         : "Lethbridge, AB"
   email            : "j.anvik@uleth.ca"
@@ -139,6 +139,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "ORCiD"
+      icon: "fab fa-brands fa-orcid"
+      url: "https://orcid.org/0009-0000-5001-9365"
 
 # Site Footer
 footer:
