@@ -89,12 +89,12 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+# twitter:
+#   username               :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 og_image_alt             : # Alt text for Open Graph/Twitter default site image
 # For specifying social profiles
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "John S. Anvik"
-  avatar           : "/assets/images/pfp.jpg"
+  avatar           : "/assets/images/pfpcropped.jpg"
   bio              : "BSc. Computer Science, Class of 2027"
   location         : "Lethbridge, AB"
   email            : "j.anvik@uleth.ca"
@@ -146,27 +146,27 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-square-x-twitter"
       # url:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-square-facebook"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jsanvik"
 
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2026"
 
 
 # Reading Files
