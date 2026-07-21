@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Your Page Title
+title: Markdown Test
 permalink: /mdtest/
 author_profile: true
 classes: wide
