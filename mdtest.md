@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Your Page Title
-permalink: /your-page/
+permalink: /mdtest/
 author_profile: true
 classes: wide
 ---
