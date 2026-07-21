@@ -115,15 +115,15 @@ analytics:
 # Site Author
 author:
   name             : "John S. Anvik"
-  avatar           : "/assets/images/pfp.jpeg"
+  avatar           : "/assets/images/pfp.jpg"
   bio              : "BSc. Computer Science, Class of 2027"
   location         : "Lethbridge, AB"
   email            : "j.anvik@uleth.ca"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:j.anvik@uleth.ca"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-square-envelope"
+    #   url: "mailto:j.anvik@uleth.ca"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jsanvik.github.io/"
