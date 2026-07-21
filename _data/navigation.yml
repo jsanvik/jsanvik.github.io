@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Test"
     url: /test/
+  - title: "Markdown Test"
+    url: /mdtest/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
